@@ -6,4 +6,4 @@ services:
     command: /bin/sh surf-tg.sh
     restart: on-failure
     ports:
-      - "8080:8080"
+      - "5034:5034"
